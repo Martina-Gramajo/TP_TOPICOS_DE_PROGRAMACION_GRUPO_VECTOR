@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1777576893 source:c:\users\cliente\desktop\tetris\config.c
+	"config.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1777578999 c:\users\cliente\desktop\tetris\config.h
+	<stdint.h>
+
+1777576893 source:c:\users\cliente\desktop\tetris\juego.c
+	"juego.h"
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<sys/time.h>
+	"GBT/gbt.h"
+
+1777578999 c:\users\cliente\desktop\tetris\juego.h
+	<stdint.h>
+	"config.h"
+	"tablero.h"
+	"tetromino.h"
+	"render.h"
+	"stats.h"
+
+1777578999 c:\users\cliente\desktop\tetris\tablero.h
+	<stdint.h>
+	"tetromino.h"
+
+1777578999 c:\users\cliente\desktop\tetris\tetromino.h
+	<stdint.h>
+
+1777580678 c:\users\cliente\desktop\tetris\render.h
+	<stdint.h>
+	"config.h"
+	"tablero.h"
+	"tetromino.h"
+
+1777578999 c:\users\cliente\desktop\tetris\stats.h
+	<stdint.h>
+
+1777578229 c:\users\cliente\desktop\tetris\gbt\gbt.h
+	"gbt_entrada.h"
+	"gbt_graficos.h"
+	"gbt_logger.h"
+	"gbt_temporizador.h"
+	"gbt_vector.h"
+
+1777578229 c:\users\cliente\desktop\tetris\gbt\gbt_entrada.h
+	<stdint.h>
+
+1777578229 c:\users\cliente\desktop\tetris\gbt\gbt_graficos.h
+	<stdint.h>
+
+1777578229 c:\users\cliente\desktop\tetris\gbt\gbt_logger.h
+
+1777578229 c:\users\cliente\desktop\tetris\gbt\gbt_temporizador.h
+	<stdint.h>
+
+1777578229 c:\users\cliente\desktop\tetris\gbt\gbt_vector.h
+	<stdlib.h>
+	<stdint.h>
+
+1777576893 source:c:\users\cliente\desktop\tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"GBT/gbt.h"
+	"config.h"
+	"render.h"
+	"juego.h"
+
+1777576893 source:c:\users\cliente\desktop\tetris\render.c
+	"render.h"
+	<stdio.h>
+	<string.h>
+	"GBT/gbt.h"
+
+1777576893 source:c:\users\cliente\desktop\tetris\stats.c
+	"stats.h"
+	<stdio.h>
+	<string.h>
+
+1777576893 source:c:\users\cliente\desktop\tetris\tablero.c
+	"tablero.h"
+	<string.h>
+
+1777576893 source:c:\users\cliente\desktop\tetris\tetromino.c
+	"tetromino.h"
+	<stdlib.h>
+	<string.h>
+

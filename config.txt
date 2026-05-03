@@ -1,0 +1,4 @@
+resolucion=0
+escala=3
+velocidad=1000
+paleta=0
