@@ -92,3 +92,74 @@
 	<stdlib.h>
 	<string.h>
 
+1777851339 source:c:\users\martina.gramajo\tp_topicos_de_programacion_grupo_vector\config.c
+	"config.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1777851339 c:\users\martina.gramajo\tp_topicos_de_programacion_grupo_vector\config.h
+	<stdint.h>
+
+1777851339 source:c:\users\martina.gramajo\tp_topicos_de_programacion_grupo_vector\juego.c
+	"juego.h"
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<sys/time.h>
+	"GBT/gbt.h"
+
+1777851339 c:\users\martina.gramajo\tp_topicos_de_programacion_grupo_vector\juego.h
+	<stdint.h>
+	"config.h"
+	"tablero.h"
+	"tetromino.h"
+	"render.h"
+	"stats.h"
+
+1777851339 c:\users\martina.gramajo\tp_topicos_de_programacion_grupo_vector\tablero.h
+	<stdint.h>
+	"tetromino.h"
+
+1777851339 c:\users\martina.gramajo\tp_topicos_de_programacion_grupo_vector\tetromino.h
+	<stdint.h>
+
+1777851339 c:\users\martina.gramajo\tp_topicos_de_programacion_grupo_vector\render.h
+	<stdint.h>
+	"config.h"
+	"tablero.h"
+	"tetromino.h"
+
+1777851339 c:\users\martina.gramajo\tp_topicos_de_programacion_grupo_vector\stats.h
+	<stdint.h>
+
+1777851339 source:c:\users\martina.gramajo\tp_topicos_de_programacion_grupo_vector\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"GBT/gbt.h"
+	"config.h"
+	"render.h"
+	"juego.h"
+
+1777851339 source:c:\users\martina.gramajo\tp_topicos_de_programacion_grupo_vector\render.c
+	"render.h"
+	<stdio.h>
+	<string.h>
+	"GBT/gbt.h"
+
+1777851339 source:c:\users\martina.gramajo\tp_topicos_de_programacion_grupo_vector\stats.c
+	"stats.h"
+	<stdio.h>
+	<string.h>
+
+1777851339 source:c:\users\martina.gramajo\tp_topicos_de_programacion_grupo_vector\tablero.c
+	"tablero.h"
+	<string.h>
+
+1777851339 source:c:\users\martina.gramajo\tp_topicos_de_programacion_grupo_vector\tetromino.c
+	"tetromino.h"
+	<stdlib.h>
+	<string.h>
+
