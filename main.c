@@ -5,7 +5,7 @@ Usuario: agusgamba
 Entrega: Si
 
 Apellido(s), nombre(s): Saldutti, Gastón
-DNI:
+DNI: 45073831
 Usuario: GastonSaldutti
 Entrega: Si
 
@@ -18,6 +18,7 @@ Entrega: Si
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 #include "GBT/gbt.h"
 #include "config.h"
 #include "render.h"
